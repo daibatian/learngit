@@ -64,3 +64,5 @@ public class ParkingSystem implements IParking,IParams{
 		ps.print();
 	}
 }
+
+1
