@@ -65,4 +65,4 @@ public class ParkingSystem implements IParking,IParams{
 	}
 }
 
-1
+2
